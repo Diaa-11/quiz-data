@@ -1,4 +1,4 @@
-{
+[{
     "spørsmål": "Hva er hovedformålet med en mikrofon?",
     "alternativer": [
       {
@@ -20,4 +20,4 @@
     ],
     "korrekt_svar": "a) Å konvertere lydbølger til elektriske signaler"
   }
-  
+]
