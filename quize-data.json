@@ -1,0 +1,23 @@
+{
+    "spørsmål": "Hva er hovedformålet med en mikrofon?",
+    "alternativer": [
+      {
+        "svar": "a) Å konvertere lydbølger til elektriske signaler",
+        "korrekt": true
+      },
+      {
+        "svar": "b) Å spille av lyd",
+        "korrekt": false
+      },
+      {
+        "svar": "c) Å lagre lyd på digitale enheter",
+        "korrekt": false
+      },
+      {
+        "svar": "d) Å redigere lydfiler",
+        "korrekt": false
+      }
+    ],
+    "korrekt_svar": "a) Å konvertere lydbølger til elektriske signaler"
+  }
+  
