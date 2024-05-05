@@ -1,23 +1,435 @@
-[{
-    "spørsmål": "Hva er hovedformålet med en mikrofon?",
-    "alternativer": [
-      {
-        "svar": "a) Å konvertere lydbølger til elektriske signaler",
-        "korrekt": true
-      },
-      {
-        "svar": "b) Å spille av lyd",
-        "korrekt": false
-      },
-      {
-        "svar": "c) Å lagre lyd på digitale enheter",
-        "korrekt": false
-      },
-      {
-        "svar": "d) Å redigere lydfiler",
-        "korrekt": false
-      }
-    ],
-    "korrekt_svar": "a) Å konvertere lydbølger til elektriske signaler"
-  }
+[
+    {
+        "spørsmål": "Hva er hovedformålet med en mikrofon?",
+        "alternativer": [
+            {
+                "svar": "Å konvertere lydbølger til elektriske signaler"
+            },
+            {
+                "svar": "Å spille av lyd"
+            },
+            {
+                "svar": "Å lagre lyd på digitale enheter"
+            },
+            {
+                "svar": "Å redigere lydfiler"
+            }
+        ],
+        "riktig_svar": "Å konvertere lydbølger til elektriske signaler"
+    },
+    {
+        "spørsmål": "Hva er samplingsfrekvensen for CD-lyd?",
+        "alternativer": [
+            {
+                "svar": "22,05 kHz"
+            },
+            {
+                "svar": "44,1 kHz"
+            },
+            {
+                "svar": "48 kHz"
+            },
+            {
+                "svar": "96 kHz"
+            }
+        ],
+        "riktig_svar": "44,1 kHz"
+    },
+    {
+        "spørsmål": "Hva er forskjellen mellom tapsfri og delvis tapsfri lydkomprimering?",
+        "alternativer": [
+            {
+                "svar": "Tapsfri komprimering reduserer filstørrelsen uten tap av kvalitet, mens delvis tapsfri komprimering fører til tap av kvalitet."
+            },
+            {
+                "svar": "Tapsfri komprimering fjerner unødvendig informasjon, mens delvis tapsfri komprimering bevarer alle dataene."
+            },
+            {
+                "svar": "Det er ingen forskjell mellom dem."
+            },
+            {
+                "svar": "Tapsfri komprimering har høyere filstørrelse enn delvis tapsfri komprimering."
+            }
+        ],
+        "riktig_svar": "Tapsfri komprimering reduserer filstørrelsen uten tap av kvalitet, mens delvis tapsfri komprimering fører til tap av kvalitet."
+    },
+    {
+        "spørsmål": "Hva er prinsippet bak Adaptive Differential Pulse Code Modulation (ADPCM)?",
+        "alternativer": [
+            {
+                "svar": "Å lagre forskjellene mellom påfølgende målinger for å redusere størrelsen på lydfilene."
+            },
+            {
+                "svar": "Å konvertere lydbølger til elektriske signaler."
+            },
+            {
+                "svar": "Å redigere lydfiler for å forbedre kvaliteten."
+            },
+            {
+                "svar": "Å spille av lydfiler i høy kvalitet."
+            }
+        ],
+        "riktig_svar": "Å lagre forskjellene mellom påfølgende målinger for å redusere størrelsen på lydfilene."
+    },
+    {
+        "spørsmål": "Hva er hørselsspennet for mennesker?",
+        "alternativer": [
+            {
+                "svar": "10 Hz til 10 kHz"
+            },
+            {
+                "svar": "20 Hz til 20 kHz"
+            },
+            {
+                "svar": "30 Hz til 30 kHz"
+            },
+            {
+                "svar": "40 Hz til 40 kHz"
+            }
+        ],
+        "riktig_svar": "20 Hz til 20 kHz"
+    },
+    {
+        "spørsmål": "Hva er det vanligste fargesystemet brukt for skjermbasert grafikk?",
+        "alternativer": [
+            {
+                "svar": "RGB"
+            },
+            {
+                "svar": "CMYK"
+            },
+            {
+                "svar": "HSV"
+            },
+            {
+                "svar": "YUV"
+            }
+        ],
+        "riktig_svar": "RGB"
+    },
+    {
+        "spørsmål": "Hvilken teknikk brukes for å representere lydsignaler som spenningsendringer over tid?",
+        "alternativer": [
+            {
+                "svar": "PCM (Pulse Code Modulation)"
+            },
+            {
+                "svar": "ADPCM (Adaptive Differential Pulse Code Modulation)"
+            },
+            {
+                "svar": "PCM (Phase Change Modulation)"
+            },
+            {
+                "svar": "DPCM (Differential Pulse Code Modulation)"
+            }
+        ],
+        "riktig_svar": "PCM (Pulse Code Modulation)"
+    },
+    {
+        "spørsmål": "Hva er de minste enhetene som utgjør et digitalt bilde?",
+        "alternativer": [
+            {
+                "svar": "Bit og byte"
+            },
+            {
+                "svar": "Piksler eller bildepunkter"
+            },
+            {
+                "svar": "Samplingsfrekvenser"
+            },
+            {
+                "svar": "Datamaskiner og lagring"
+            }
+        ],
+        "riktig_svar": "Piksler eller bildepunkter"
+    },
+    {
+        "spørsmål": "Hva er hovedformålet med å bruke kompresjonsteknikker på digitale bilder?",
+        "alternativer": [
+            {
+                "svar": "Å øke bildestørrelsen"
+            },
+            {
+                "svar": "Å redusere oppløsningen"
+            },
+            {
+                "svar": "Å redusere filstørrelsen uten å miste viktig informasjon"
+            },
+            {
+                "svar": "Å endre fargeprofilen"
+            }
+        ],
+        "riktig_svar": "Å redusere filstørrelsen uten å miste viktig informasjon"
+    },
+    {
+        "spørsmål": "Hvilket fargesystem er det vanligste for skjermbasert grafikk?",
+        "alternativer": [
+            {
+                "svar": "RGB"
+            },
+            {
+                "svar": "CMYK"
+            },
+            {
+                "svar": "HSV"
+            },
+            {
+                "svar": "YUV"
+            }
+        ],
+        "riktig_svar": "RGB"
+    },
+    {
+        "spørsmål": "Hva representerer tallet 1 i en digital piksel når det gjelder farger?",
+        "alternativer": [
+            {
+                "svar": "Hvit"
+            },
+            {
+                "svar": "Sort"
+            },
+            {
+                "svar": "Rød"
+            },
+            {
+                "svar": "Grønn"
+            }
+        ],
+        "riktig_svar": "Sort"
+    },
+    {
+        "spørsmål": "Hva er en punktmatrise eller bitmap?",
+        "alternativer": [
+            {
+                "svar": "En detaljert kart over hver piksel i bildet"
+            },
+            {
+                "svar": "En type fargeprofil"
+            },
+            {
+                "svar": "En enhet for å måle skjermoppløsning"
+            },
+            {
+                "svar": "En digital bildefiltype"
+            }
+        ],
+        "riktig_svar": "En detaljert kart over hver piksel i bildet"
+    },
+    {
+        "spørsmål": "Hva er hovedforskjellen mellom tapsfri og destruktiv kompresjon av digitale bilder?",
+        "alternativer": [
+            {
+                "svar": "Tapsfri komprimering reduserer filstørrelsen uten å miste data, mens destruktiv komprimering fjerner unødvendig informasjon."
+            },
+            {
+                "svar": "Tapsfri komprimering fjerner unødvendig informasjon, mens destruktiv komprimering reduserer filstørrelsen uten å miste data."
+            },
+            {
+                "svar": "Tapsfri komprimering øker bildestørrelsen, mens destruktiv komprimering reduserer den."
+            },
+            {
+                "svar": "Det er ingen forskjell mellom dem."
+            }
+        ],
+        "riktig_svar": "Tapsfri komprimering reduserer filstørrelsen uten å miste data, mens destruktiv komprimering fjerner unødvendig informasjon."
+    },
+    {
+        "spørsmål": "Hva er en vanlig samplingsfrekvens for lydopptak i CD-plater?",
+        "alternativer": [
+            {
+                "svar": "22,05 kHz"
+            },
+            {
+                "svar": "44,1 kHz"
+            },
+            {
+                "svar": "48 kHz"
+            },
+            {
+                "svar": "96 kHz"
+            }
+        ],
+        "riktig_svar": "44,1 kHz"
+    },
+    {
+        "spørsmål": "Hva er formålet med å bruke RGB-fargesystemet i digitale bilder?",
+        "alternativer": [
+            {
+                "svar": "Å representere farger basert på røde, grønne og gule nyanser"
+            },
+            {
+                "svar": "Å skape et bredt spekter av farger ved å kombinere ulike mengder av rødt, grønt og blått"
+            },
+            {
+                "svar": "Å begrense fargegjengivelsen til bare rødt, grønt og blått"
+            },
+            {
+                "svar": "Å skape svart-hvitt-bilder"
+            }
+        ],
+        "riktig_svar": "Å skape et bredt spekter av farger ved å kombinere ulike mengder av rødt, grønt og blått"
+    },
+    {
+        "spørsmål": "Hva er en vanlig metode for å representere farger i digitale bilder?",
+        "alternativer": [
+            {
+                "svar": "HSL (Hue, Saturation, Lightness)"
+            },
+            {
+                "svar": "YUV (Luminance, Chrominance Blue, Chrominance Red)"
+            },
+            {
+                "svar": "XYZ (CIE 1931 Color Space)"
+            },
+            {
+                "svar": "HSV (Hue, Saturation, Value)"
+            }
+        ],
+        "riktig_svar": "HSV (Hue, Saturation, Value)"
+    },
+    {
+        "spørsmål": "Hvilken type kompresjon beholder all informasjonen fra det originale bildet?",
+        "alternativer": [
+            {
+                "svar": "Tapsfri kompresjon"
+            },
+            {
+                "svar": "Destruktiv kompresjon"
+            },
+            {
+                "svar": "Adaptiv kompresjon"
+            },
+            {
+                "svar": "Entropisk kompresjon"
+            }
+        ],
+        "riktig_svar": "Tapsfri kompresjon"
+    },
+    {
+        "spørsmål": "Hva er hensikten med å komprimere videofiler?",
+        "alternativer": [
+            {
+                "svar": "Å øke kvaliteten på videoen"
+            },
+            {
+                "svar": "Å redusere lagringsplassen og forbedre overføring via nettverk"
+            },
+            {
+                "svar": "Å legge til flere bilder per sekund"
+            },
+            {
+                "svar": "Å forlenge varigheten av videoen"
+            }
+        ],
+        "riktig_svar": "Å redusere lagringsplassen og forbedre overføring via nettverk"
+    },
+    {
+        "spørsmål": "Hvilken metode for videokomprimering behandler hvert bilde individuelt for å redusere datamengden?",
+        "alternativer": [
+            {
+                "svar": "Run length encoding"
+            },
+            {
+                "svar": "JPEG-komprimering"
+            },
+            {
+                "svar": "MPEG-komprimering"
+            },
+            {
+                "svar": "MP3-komprimering"
+            }
+        ],
+        "riktig_svar": "Run length encoding"
+    },
+    {
+        "spørsmål": "Hva er MJPG en forkortelse for?",
+        "alternativer": [
+            {
+                "svar": "Multi-JPEG"
+            },
+            {
+                "svar": "Mega-JPEG"
+            },
+            {
+                "svar": "Motion-JPEG"
+            },
+            {
+                "svar": "Micro-JPEG"
+            }
+        ],
+        "riktig_svar": "Motion-JPEG"
+    },
+    {
+        "spørsmål": "Hvor mange bilder per sekund vises vanligvis i tradisjonell film?",
+        "alternativer": [
+            {
+                "svar": "25 bilder per sekund"
+            },
+            {
+                "svar": "30 bilder per sekund"
+            },
+            {
+                "svar": "50 bilder per sekund"
+            },
+            {
+                "svar": "24 bilder per sekund"
+            }
+        ],
+        "riktig_svar": "24 bilder per sekund"
+    },
+    {
+        "spørsmål": "Hva står forkortelsen PAL for i videosystemer?",
+        "alternativer": [
+            {
+                "svar": "Practical Analog Line"
+            },
+            {
+                "svar": "Phase Alternating Line"
+            },
+            {
+                "svar": "Progressive Audio Loop"
+            },
+            {
+                "svar": "Pixel Animation Logic"
+            }
+        ],
+        "riktig_svar": "Phase Alternating Line"
+    },
+    {
+        "spørsmål": "Hvilken type komprimering brukes individuelt på hvert bilde for å redusere datamengden uten å gå på bekostning av kvaliteten?",
+        "alternativer": [
+            {
+                "svar": "Run length encoding"
+            },
+            {
+                "svar": "JPEG-komprimering"
+            },
+            {
+                "svar": "MPEG-komprimering"
+            },
+            {
+                "svar": "PNG-komprimering"
+            }
+        ],
+        "riktig_svar": "JPEG-komprimering"
+    },
+    {
+        "spørsmål": "Hva er den primære fordelen med MJPG-komprimering av videofiler?",
+        "alternativer": [
+            {
+                "svar": "Redusert bildefrekvens"
+            },
+            {
+                "svar": "Redusert lagringsplass uten kvalitetstap"
+            },
+            {
+                "svar": "Økt bildekvalitet"
+            },
+            {
+                "svar": "Bedre lydkvalitet"
+            }
+        ],
+        "riktig_svar": "Redusert lagringsplass uten kvalitetstap"
+    }
 ]
+
